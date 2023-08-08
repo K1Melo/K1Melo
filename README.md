@@ -30,7 +30,10 @@
 
 ## Main skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,git,github,js,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 
 <br>
 
