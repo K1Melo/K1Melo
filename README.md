@@ -37,10 +37,4 @@
 ## Studying
 [![My Skills](https://skillicons.dev/icons?i=java,spring,js,react&theme=dark)](https://skillicons.dev)
 
-<div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{K1Melo}/count.svg" /></p> 
-  <br>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E005B&height=120&section=footer"/>
