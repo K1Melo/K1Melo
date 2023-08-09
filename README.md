@@ -38,6 +38,11 @@
 <br>
 
 ## Studying
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,react&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,react,mongodb&theme=dark)](https://skillicons.dev)
+
+## Work tools
+
+[![My Skills](https://skillicons.dev/icons?i=postman,eclipse&theme=dark)](https://skillicons.dev)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E005B&height=120&section=footer"/>
