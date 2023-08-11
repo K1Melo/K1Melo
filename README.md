@@ -42,7 +42,7 @@
 
 ## Work tools
 
-[![My Skills](https://skillicons.dev/icons?i=postman,eclipse&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,eclipse,vscode&theme=dark)](https://skillicons.dev)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E005B&height=120&section=footer"/>
