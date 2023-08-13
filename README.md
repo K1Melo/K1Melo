@@ -38,7 +38,7 @@
 <br>
 
 ## Studying
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,vue,mongodb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,vue,bootstrap,mongodb&theme=dark)](https://skillicons.dev)
 
 ## Work tools
 
