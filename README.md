@@ -15,7 +15,7 @@
 
 <div align="center" style="margin-top: 10px;">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=K1Melo&show_icons=true&count_private=true&hide_border=true&title_color=3452B2&icon_color=3452B2&text_color=2E4EBA&bg_color=0d1117" alt="Kauã Fernandes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1Melo&layout=compact&hide_border=true&title_color=3452B2&text_color=2E4EBA&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1Melo&count_private=true&&layout=compact&hide_border=true&title_color=3452B2&text_color=2E4EBA&bg_color=0d1117" />
 </div>
 
 <br>
