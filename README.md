@@ -31,7 +31,7 @@
 ## Main skills
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 
@@ -42,7 +42,7 @@
 
 ## Work tools
 
-[![My Skills](https://skillicons.dev/icons?i=postman,idea,gradle,maven&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,idea,gradle,maven,github&theme=dark)](https://skillicons.dev)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E005B&height=120&section=footer"/>
