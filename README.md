@@ -5,7 +5,7 @@
 
 <hr>
 <div align="center"> 
-  <a href="https://g.dev/kaua_melo">Google for Developers</a>
+  <a href="https://g.dev/kaua_melo" target="_blank">Google for Developers</a>
 </div>
 <hr>
 
