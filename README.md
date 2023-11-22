@@ -12,11 +12,11 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=K1Melo&bg_color=00000&color=2E4EBA&line=3452B2&point=3761E8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!--##
+##
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=K1Melo&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>-->
+  <img src="https://github-profile-trophy.vercel.app/?username=K1Melo&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 ##
 
