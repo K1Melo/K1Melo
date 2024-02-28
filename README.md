@@ -36,12 +36,12 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=dark)](https://skillicons.dev)
 
 <br>
 
 ## Studying
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,vue,js,ts&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,vue,js,ts,godot&theme=dark)](https://skillicons.dev)
 
 ## Work tools
 
