@@ -3,9 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E4EBA&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!,+My+name+is+Kauã+Fernandes;)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E4EBA&size=25&center=true&vCenter=true&width=1000&lines=Software+Enginner;)](https://git.io/typing-svg)
 
-
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=K1Melo&bg_color=00000&color=2E4EBA&line=3452B2&point=3761E8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
@@ -17,17 +14,19 @@
 ##
 
 <div align="center" style="margin-top: 10px;">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=K1Melo&show_icons=true&count_private=true&hide_border=true&title_color=3452B2&icon_color=3452B2&text_color=2E4EBA&bg_color=0d1117" alt="Kauã Fernandes github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1Melo&count_private=false&hide=html,css,vue,portugol&layout=compact&hide_border=true&title_color=3452B2&text_color=2E4EBA&bg_color=0d1117" />
 </div>
 
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K1Melo&theme=dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K1Melo&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+| ----------- | ----------- |
+
+
 <br>
 <br>
 
-<!--<div align="center"> 
-
-<a href="https://www.linkedin.com/in/#kau%C3%A3-fernandes-b33506266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-</div>-->
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/kaua-melo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+</div>
 
 <br>
 
