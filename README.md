@@ -13,11 +13,7 @@
 
 ##
 
-<div align="center" style="margin-top: 10px;">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1Melo&count_private=false&hide=html,css,vue,portugol&layout=compact&hide_border=true&title_color=3452B2&text_color=2E4EBA&bg_color=0d1117" />
-</div>
-
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K1Melo&theme=dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K1Melo&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+| <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1Melo&count_private=false&hide=html,css,vue,portugol&layout=compact&hide_border=true&title_color=3452B2&text_color=2E4EBA&bg_color=0d1117" /> | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K1Melo&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
 | ----------- | ----------- |
 
 
