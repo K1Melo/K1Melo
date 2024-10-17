@@ -34,11 +34,11 @@
 <br>
 
 ## Studying
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,vue,js,ts,godot&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,js,cpp&theme=dark)](https://skillicons.dev)
 
 ## Work tools
 
-[![My Skills](https://skillicons.dev/icons?i=postman,idea,gradle,maven,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,idea,gradle,maven,github,vscode&theme=dark)](https://skillicons.dev)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E005B&height=120&section=footer"/>
