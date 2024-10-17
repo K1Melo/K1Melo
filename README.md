@@ -11,9 +11,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=K1Melo&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-##
-
-| <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1Melo&count_private=false&hide=html,css,vue,portugol&layout=compact&hide_border=true&title_color=3452B2&text_color=2E4EBA&bg_color=0d1117" /> | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K1Melo&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+| <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1Melo&count_private=false&hide=html,css,vue,portugol&layout=compact&hide_border=true&title_color=3452B2&text_color=2E4EBA&bg_color=0d1117" /> | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K1Melo&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
 | ----------- | ----------- |
 
 
