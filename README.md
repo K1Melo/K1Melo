@@ -44,7 +44,8 @@ My main interests are **scalable backend architectures**, **performance-oriented
 - Node.js  
 
 **Databases**  
-- PostgreSQL, MySQL, MongoDB 
+- PostgreSQL, MySQL
+- MongoDB 
 
 **DevOps & Tools**  
 - Docker  
